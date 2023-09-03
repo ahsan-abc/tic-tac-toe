@@ -90,7 +90,7 @@ function show(num)
         
     }
     document.getElementById('footer').lastElementChild.innerHTML = "play again";
-    document.getElementsByClassName('container')[0].style.opacity= "30%"
+    document.getElementsByClassName('container')[0].style.opacity= "50%"
     
 }
 
